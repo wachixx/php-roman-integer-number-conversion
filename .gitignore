@@ -1,0 +1,4 @@
+*~
+vendor
+*.lock
+/.ac-php-conf.json
