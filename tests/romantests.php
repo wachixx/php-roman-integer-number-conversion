@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 
 final class RomanTests extends TestCase
 {
-    public function testGetArabic(): int
+    public function testGetInteger(): int
     {
         $tdata = [
             'X' => 10,
