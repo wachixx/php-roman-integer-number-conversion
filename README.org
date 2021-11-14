@@ -1,5 +1,5 @@
 Brief console application that accepts a roman number, validates it
-and returns the arabic equivalent of the number.
+and returns the integer equivalent.
 
 #+begin_src sh
   php roman.php
